@@ -1,2 +1,2 @@
-# CalcMediaC
-Media school calculator using C.
+# CalcAverageC
+School average calculator using C.
